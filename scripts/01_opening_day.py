@@ -12,7 +12,7 @@
 # ---- Section 1  (STEP 1): your first program ---------------
 # print() puts words on the screen. Think of it as the till
 # printing a line of receipt paper. This is your ribbon-cutting.
-print("Hello World")
+print("Hello Coffee")
 
 # Now let's say it the way our shop would say it.
 print("Welcome to The Cozy Bean!")
